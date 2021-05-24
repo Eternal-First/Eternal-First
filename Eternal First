@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eternal First</title>
+    <style>
+    html {
+    height: 100px;
+}
+
+
+
+
+body {
+    background-color:rgb(39, 41, 39);
+    background-image: url(images/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: auto;
+    
+
+}
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header {
+    height: 118px;
+    width: 1024px;
+    text-align: center;
+    
+
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.338);
+    color: white;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: center;
+   
+
+}
+main {
+    height: 400px;
+    
+    text-align: center;
+    padding-top: 80px;
+    padding-right: 240px;
+    padding-left: 240px;
+}
+footer {
+    background-color:rgba(0, 0, 0, 0.338);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+p {
+    font-size: 18px;
+    color: white;
+    font-family: comic, Georgia, Times, 'Times New Roman', serif;
+}
+a {
+    color: blue;
+    /*text-decoration: none;*/
+    font-family: comic, Georgia, Times, 'Times New Roman', serif;
+}
+.t {
+    font-size: 16px;
+    color: white;
+    font-family: comic, Georgia, Times, 'Times New Roman', serif;
+}
+nav a {
+    text-decoration:none ;
+    color: white;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer p {
+    font-size: 10px;
+    text-align: center;
+    color: rgb(198, 198, 198);
+
+}
+<style>
+</head>
+<body>
+
+    <div class="box">
+        <header>
+            <img src="images/logo.png" alt="Logo pour Eternal">
+        </header>
+    
+        <nav>
+            <a href="images/">HOME</a>
+            <a href="#">CONTACTE & SUPPORT</a>
+            <a href="#">MAGASIN</a>
+            <a href="#">ACTUALITÉS</a>
+            <a href="#">FAQ</a>
+            <a href="#">BLOG</a>
+        </nav>
+    
+    
+    
+    
+        <main>
+            <h1>Bienvenue</h1>
+            <p>Nous sommes un serveur avec une petite communauté, ce serveur vous acceuilera comme vous etes mais il y'a certaines règle a respecter biensûr, elles seront dans le #règle de notre discord. </p>
+            <a href="https://discord.gg/YWpYpgQusZ" target="_blank">⇨Notre Discord⇦</a>
+            <p class="t">Je vous souhaite un agréable moments avec nous.</p>
+        </main>
+    
+    
+    
+        <footer>
+            <p>108 rue du sah, France, Co. Eternal - Copyright 2021©</p>
+        </footer>
+
+
+    </div>
+</body>
+    
+    
+</body>
+</html> 
